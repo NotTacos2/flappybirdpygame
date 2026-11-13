@@ -8,3 +8,5 @@ This is a flappy bird clone that I made in pygame. It is for casual gamers and g
 - Achievements
 - Bird colors (red, blue, green, cyan, pink)
 - Settings with reset save
+
+## Make sure to always go in the middle of the pipes, if you get close (like 1cm) it will cause a game over due to image resizing problems
