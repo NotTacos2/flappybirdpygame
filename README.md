@@ -1,5 +1,5 @@
 # Flappy Bird
-This is a flappy bird clone that I made in pygame. It is for gamers who wants a challenge and for grinders as well.
+This is a flappy bird clone that I made in pygame. It is for casual gamers and grinders as well.
 
 ## Features:
 - Flappy bird style gameplay
